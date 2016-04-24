@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Free Online Store, shopping cart, Ecommerce Software | Miiduu</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Language" content="en"/>
+<meta content="all" name="robots"/>
+<meta name="author" content="Miiduu.com"/>
+<meta name="Copyright" content="Miiduu.com"/>
+<meta name="description" content="Create your online store in 3 minutes. The easiest way to sell online. It is free."/>
+<meta name="keywords" content="online store, online shop, shopping cart, sell online, web store, ecommerce, e-commerce"/>
+<base href="http://www.miiduu.com"/>
+<link rel="stylesheet" href="view/dist/css/bootstrap.min.css?version=1">
+<link rel="stylesheet" href="view/stylesheet/style.css?version=3">
+<link rel="stylesheet" href="view/stylesheet/fonticon.css?version=1">
+<!--[if lt IE 9]>
+        <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+        <script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+<link rel="stylesheet" type="text/css" href="view/stylesheet/global.css?version=1"/>
+<link rel="stylesheet" type="text/css" href="view/stylesheet/print.css?version=1" media="print"/>
+<script src="view/dist/js/jquery.min.js"></script>
+<script src="view/dist/js/bootstrap.min.js"></script>
+<script type='text/javascript' src="view/javascript/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="view/javascript/jquery/jquery.tools.min.js"></script>
+</head>
+<body class="homepage">
+<header>
+<script>
+window.onscroll = 
+  function(){ 
+    var h = $(document).scrollTop();
+    var op = h/300;   
+    $('#top_div').css({"opacity":op})
+  }
+</script>
+<div id="top_div" style="width:100%; height:65px; background:#000000; position:fixed; opacity:0; z-index:999;"></div>
+<div role="navigation" class="navbar navbar-default navbar-fixed-top">
+<div class="navbar-header">
+<button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a href="http://www.miiduu.com" class="navbar-brand" title="miiduu.com"><img src="view/images/miiduu_logo2.png" alt="miiduu.com"/></a>
+<div class="login-btns">
+<a href="http://www.miiduu.com/index/register" class="btn btn-sm btn-special">Sign Up</a>
+<a href="http://www.miiduu.com/index/login" class="btn-login">Login</a> </div> </div>
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li class="nav-icons-home active"><a href="http://www.miiduu.com">Home</a></li>
+<li class="nav-icons-features "><a href="http://www.miiduu.com/free-online-store-features-tour">Features</a></li>
+<li class="nav-icons-pricing "><a href="http://www.miiduu.com/free-online-store-pricing">Pricing</a></li>
+<li class="nav-icons-demo "><a href="http://www.miiduu.com/free-online-store-demo">Demo</a></li>
+<li class="nav-icons-stores "><a href="http://www.miiduu.com/free-online-store-directory">Stores</a></li>
+<li class="nav-icons-support"><a target="_blank" href="http://help.miiduu.com">Support</a></li>
+</ul>
+</div> 
+</div>
+</header>
+<div class="header-main"><img class="home-bg" src="view/images/miiduu-bg.jpg">
+<div class="header-block">
+<div style="overflow:hidden"><h1>It's free</h1><span>Modern style storefront, Easy to customize. 80,000+ live stores and growing.</span>
+</div>
+<h2 class="title">Create a Successful online store.</h2>
+<div class="languages">English · Française · Pусский · Deutsch · Português · 中文 · &38+ languages</div>
+<div><a href="http://www.miiduu.com/index/register" class="btn btn-shadow btn-lg btn-special">Sign up now</a></div>
+</div>
+</div>
+<div class="features">
+<div class="container">
+<h2 class="title">Everything you need to start selling today</h2>
+<p class="lead">Miiduu makes it easy to build, manage and promote your online store</p>
+<div style="margin-top:10px;" class="row">
+<div class="col-md-4 col-sm-4">
+<div class="tile">
+<img class="tile-image big-illustration" alt="" src="view/images/infinity.png">
+<h4>Everything you need</h4>
+<p>Tell your story, show your products, sell to new customers and accept credit cards — it's all included with your Miiduu Store.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="tile">
+<img class="tile-image big-illustration" alt="" src="view/images/retina.png">
+<h4>Painless Management</h4>
+<p>Manage your inventory, process customer orders, print invoices, and customize emails all in one intuitive interface. </p>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="tile">
+<img class="tile-image big-illustration" alt="" src="view/images/colors.png">
+<h4>Multi Languages Support</h4>
+<p>Sell your products to worldwide customers. Select from 30+ Languages, and localize your currencies and taxes.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="demos">
+<div class="container">
+<h2 class="title">Gorgeous Design, 100% Customizable</h2>
+<p class="lead">100s of fully customizable HTML5 templates available in every category. <br>
+Choose yours and create something totally original.</p>
+<div class="more"><a href="http://www.miiduu.com/free-online-store-demo">more demos</a></div>
+</div>
+<div class="row">
+<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="demo-single">
+<img src="view/images/thumbnail-01.jpg" class="img-responsive">
+<div style="text-align:center;" class="mask-home more">
+<a target="_blank" class="info" href="http://cyae.miiduu.com/">Visit Website</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="demo-single">
+<img src="view/images/thumbnail-02.jpg" class="img-responsive">
+<div style="text-align:center;" class="mask-home more">
+<a target="_blank" class="info" href="http://cyaf.miiduu.com/">Visit Website</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="demo-single">
+<img src="view/images/thumbnail-03.jpg" class="img-responsive">
+<div style="text-align:center;" class="mask-home more">
+<a target="_blank" class="info" href="http://macmd.miiduu.com/">Visit Website</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="demo-single">
+<img src="view/images/thumbnail-04.jpg" class="img-responsive">
+<div style="text-align:center;" class="mask-home more">
+<a target="_blank" class="info" href="http://ladyfashion.miiduu.com/">Visit Website</a>
+</div></div></div>
+</div>
+</div>
+<div class="import1">
+<div class="container">
+<h2 class="title">Your Miiduu Store is mobile-ready</h2>
+<p class="lead">
+Grab your sales from any device. Tablet, phone or computer — your<br>store does its job on any screen, anywhere.</p>
+<div class="more"><a href="http://www.miiduu.com/free-online-store-features-tour">More features</a></div>
+<div class="row">
+<div class="col-md-10 col-md-offset-1">
+<div class="row">
+<div class="col-md-5">
+<div class="content">
+<ul>
+<li><span class="glyphicon glyphicon-ok"></span> Responsive Themes</li>
+<li><span class="glyphicon glyphicon-ok"></span> Mobile-friendly</li>
+<li><span class="glyphicon glyphicon-ok"></span> Professional Design</li>
+<li><span class="glyphicon glyphicon-ok"></span> Fully Customizable</li>
+<li><span class="glyphicon glyphicon-ok"></span> Works on all smartphones</li>
+</ul>
+</div>
+</div>
+<div class="col-md-7">
+<div class="fs-image" style="display:none">
+<img src="view/images/left.png"><img src="view/images/right.png">
+</div>
+<div class="fs-mobile-image">
+<img src="view/images/hands.png">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="more-features">
+<div class="container">
+<div class="row">
+<h2 class="title">Our Service</h2>
+<div class="col-md-4">
+<div class="tile">
+<span class="icons icons-cog"></span>
+<div class="tile-block"> <h3 class="tile-title">Ultra-Simple Setup</h3>
+<p>You’ll never have to touch a line of code to get the features you want. Build your masterpiece from an easy-to-use admin dashboard.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="tile">
+<span class="icons icons-thumbs-up"></span>
+<div class="tile-block"> <h3 class="tile-title">Powerful Built-in Marketing Tools</h3>
+<p>Drive traffic and boost sales with coupons, gift card, cross-sell, affiliates and many more. Connect with your customers on Facebook, Twitter, and more. </p>
+</div></div>
+</div>
+<div class="col-md-4">
+<div class="tile">
+<span class="icons icons-edit"></span>
+<div class="tile-block"> <h3 class="tile-title">Custom Domains</h3>
+<p>Use any domain you own to give your store a custom URL. Turn something like bellezadecoracion.miiduu.com into www.bellezadecoracion.com.</p>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="col-md-4">
+<div class="tile">
+<span class="icons icons-ok-circle"></span>
+<div class="tile-block"> <h3 class="tile-title">Perfect SEO Features</h3>
+<p>Complete control over your urls, Meta information, and landing page help you rank highly on Google.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="tile">
+<span class="icons icons-lock"></span>
+<div class="tile-block"> <h3 class="tile-title">Fully Hosted and Secure</h3>
+<p>Every Miiduu store includes fast, cloud-based, unlimited hosting. We use 128 bit SSL encryption to ensure credit card data is safe and secure.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="tile">
+<span class="icons icons-time"></span>
+<div class="tile-block"> <h3 class="tile-title">Unlimited 24x7 Toll-free Support</h3>
+<p>Livechat or email us any day of the week and we’ll help get you set up or bring your business to the next level.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="store-of-week">
+<div class="shop-top">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+<div class="container">
+<div class="row">
+<h2 class="title">Store of the week</h2>
+<p class="lead">
+Every week we feature an amazing store built with Miiduu.
+<br>
+Want your store featured? Submit via admin menu: Marketing->Promote your store.
+</p>
+<div class="demo-single">
+<a target="_blank" href="http://www.tqproductsinc.com">
+<img alt="store of the week" src="featured_store/screenshort/featured_store_99224_356c.png"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-outer"><p><a role="button" href="index/register" class="btn btn-lg signup-btn">Free Sign Up Now</a></p>
+or <a class="linkcss" href="http://www.miiduu.com/free-online-store-features-tour">View Full Feature List</a></div>
+<footer>
+<div class="container">
+<div class="footer-content">
+<div class="row">
+<div class="col-md-3 col-sm-6">
+<h5>Overview</h5>
+<ul><li><a href="http://www.miiduu.com">Home</a></li>
+<li><a href="http://www.miiduu.com/free-online-store-features">Feature List</a></li>
+<li><a href="http://www.miiduu.com/free-online-store-pricing">Pricing</a></li>
+<li><a href="http://www.miiduu.com/free-online-store-demo">Demo Stores</a></li>
+<li><a href="http://www.miiduu.com/reseller">Become a Reseller</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<h5>Resources</h5>
+<ul><li><a target="_blank" href="http://help.miiduu.com">Support Center</a></li>
+<li><a href="http://www.miiduu.com/free-online-store-directory">Store Directory</a></li>
+<li><a href="http://www.miiduu.com/create-bilingual-online-store">Create Bilingual Store</a></li>
+<li><a href="http://www.miiduu.com/create-multilingual-online-store">Create Multilingual Store</a></li>
+<li><a href="http://www.miiduu.com/facebook-store">Create Facebook Store</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<h5>Miiduu</h5>
+<ul><li><a href="http://www.miiduu.com/index.php?a=view&c=about_us">About Us</a></li>
+<li><a target="_blank" href="http://news.miiduu.com/">Miiduu News</a></li>
+<li><a href="http://www.miiduu.com/index/terms">Terms of Service</a></li>
+<li><a href="http://www.miiduu.com/index/privacy">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<h5>Contact Us</h5>
+<ul>
+<li><a target="_blank" href="http://help.miiduu.com/customer/portal/emails/new">Email Us</a></li>
+</ul>
+<div style="margin-top:10px;"><a target="_blank" href="http://www.facebook.com/miiduu"><i class="iconpd-facebook"></i></a> <a target="_blank" href="http://twitter.com/miiduu"><i class="iconpd-twitter"></i> </a> <a target="_blank" href="http://news.miiduu.com"><i class="iconpd-code"></i></a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var __lc = {};
+__lc.license = 4262651;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+</div>
+<div class="footer-bottom">
+© 2010 - 2016 Miiduu, Inc. All rights Reserved
+</div>
+</footer>
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+//twitter remarketing tracking
+twttr.conversion.trackPid('l4kz7');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4kz7&p_id=Twitter"/>
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4kz7&p_id=Twitter"/>
+</noscript>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-18071551-1', 'miiduu.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1005924175;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005924175/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5079205"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5079205&Ver=2" height="0" width="0" style="display:none; visibility: hidden;"/></noscript>
+</body>
+</html>
